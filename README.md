@@ -8,7 +8,7 @@ Indonesia Stock Exchange (Bursa Efek Indonesia)
 
 > ##### Penting
 > 
-> ##### Pastikan chromedriver sesuai dengan tipe browser anda
+> ##### Make sure the chromedriver matches your browser version type
 >  ChromeDriver : 90.0.4430.24
 >  
 >  Chrome Browser : 90.0.4430.93
@@ -16,16 +16,29 @@ Indonesia Stock Exchange (Bursa Efek Indonesia)
 > ##### Terminal
 >`python shareholders.py` 
 >
-> inputan : 
+> input : 
 > 
 >
-> <img width="467" alt="Screenshot at Apr 11 1-04-09 AM" src="https://user-images.githubusercontent.com/3155098/114280456-7dec2580-9a63-11eb-897e-43f50bd1aff4.png">
+> <img width="480" alt="run" src="https://user-images.githubusercontent.com/3155098/116805232-30894280-ab4f-11eb-848e-8e15be87f5cb.png">
+
 > 
 >
-> hasilnya : 
+> output : 
 > 
 >
-> <img width="517" alt="Screenshot at Apr 11 1-05-28 AM" src="https://user-images.githubusercontent.com/3155098/114280462-86446080-9a63-11eb-9e3e-d82c4e5dad33.png">
+> <img width="745" alt="shareholder bbca" src="https://user-images.githubusercontent.com/3155098/116805292-865dea80-ab4f-11eb-85c0-ba0a3e4b2ab6.png">
 
+>
+> ##### The result is the same as :
+> 
+>
+> <img width="1045" alt="SS BBCA" src="https://user-images.githubusercontent.com/3155098/116805344-1e5bd400-ab50-11eb-864d-c707263dcb06.png">
 
-
+>
+>
+>
+>
+> For BBRI : 
+> 
+>
+><img width="702" alt="shareholder bbri" src="https://user-images.githubusercontent.com/3155098/116805355-35022b00-ab50-11eb-92e6-01073d745af3.png">
