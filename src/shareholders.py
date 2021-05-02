@@ -5,7 +5,6 @@ from selenium.webdriver.chrome.options import Options
 emiten = input('Input Emiten : ')
 chrome_options = Options()
 chrome_options.add_argument('--incognito')
-# chrome_options.add_argument('--headless')
 driver = webdriver.Chrome(options=chrome_options, executable_path=os.path.abspath('../drivers/chromedriver'))
 
 url = 'https://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten={}'.format(emiten)
